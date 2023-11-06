@@ -1,0 +1,16 @@
+{
+  "name": "volkswagen-tailspin",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "index.js",
+  "dependencies": {
+    "loader-utils": "1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT"
+}
